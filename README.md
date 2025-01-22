@@ -9,6 +9,7 @@ This project generates an automated teller machine (ATM) that stores the user's 
 
 ---
 ## Installation
+JDK
 
 ### Dependencies
 
