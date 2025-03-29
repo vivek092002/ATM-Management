@@ -17,7 +17,7 @@ This project requires Java 8 or a later version to run
 
 ### User Installation
 
-To run the project:
+To run the project on your machine:
 1. Clone the ATM-Machine repo to your local machine (forking first is recommended for contributors
 2. Make sure the ATM.java, Account.java, and OptionMenu.java files are stored in a single folder
 3. Use Java IDE (e.g. Eclipse ,InteliJ or NetBeans) to view these files
